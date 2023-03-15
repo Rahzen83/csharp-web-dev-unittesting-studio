@@ -3,7 +3,7 @@ namespace BalancedBrackets
 {
 	public class BalancedBrackets
 	{
-        /**
+        /**=
          * The function HasBalancedBrackets should return true if and only if
          * the input string has a set of "balanced" brackets.
          *
@@ -35,8 +35,13 @@ namespace BalancedBrackets
                 else if (ch == ']')
                 {
                     brackets--;
+                } 
+                if (brackets == -1)
+                {
+                    return false;
                 }
-            }
+            } 
+
             return brackets == 0;
         }
     }

@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: BalancedBracketsTests, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>BalancedBracketsTests -> C:\Users\rahze\3-14-23\csharp-web-dev-unittesting-studio\BalancedBracketsTests\bin\Debug\net6.0\BalancedBracketsTests.dll
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
+========== Build started at 3:45 PM and took 00.956 seconds ==========
